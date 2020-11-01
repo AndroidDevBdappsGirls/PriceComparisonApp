@@ -1,6 +1,6 @@
-# pricing_app
+# Price Comparision App
 
-Pricing app development in flutter.
+A price comparison mobile app developed in Flutter for comparing price of  the product from different E-commerce websites.
 
 ## Getting Started
 
