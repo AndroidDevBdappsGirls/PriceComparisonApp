@@ -5,15 +5,23 @@ A price comparison mobile app developed in Flutter for comparing price of  the p
 
 
 #Members
-Dyuti Islam 
-Fouzia Nigar 
-Kaniz Fatema
-Gulshan ARa
+1. Dyuti Islam 
+
+2. Fouzia Nigar 
+
+3. Kaniz Fatema
+
+4. Gulshan ARa
  
 #To Do
  Idea generation
+
  UI Design
+
  Database Design
+
  Module design
+
  Authentication - Firebase
+
  Integration
